@@ -1,0 +1,6 @@
+ 972 child childparent parent
+   3 child parent childparent
+   4 child parent parentchild
+   1 parent child childparent
+   5 parent child parentchild
+  15 parent parentchild child
